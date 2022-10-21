@@ -1,1 +1,1 @@
-<img src="TLK.png">
+<img src="TLK.jpg">
